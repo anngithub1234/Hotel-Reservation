@@ -1,5 +1,5 @@
 # Hotel-Reservation
-##Hotel Chain A, a major presence in the hospitality sector, manages three different categories
+Hotel Chain A, a major presence in the hospitality sector, manages three different categories
 of hotels They are City Hotels, Airport Hotels, and Resorts. During the last 15 months the hotel
 chain has been dealing with a high volume of booking cancellations and no-shows, causing
 disruptions in operations and resulting in significant revenue losses. To address this issue, Hotel
